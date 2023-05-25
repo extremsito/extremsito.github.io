@@ -30,11 +30,12 @@ table{
 th{
     padding: 5px;
     border-radius: 10px;
+    background-color: rgb(218, 218, 218);
 }
 
 td{
     padding: 10px;
-
+    background-color: rgb(175, 174, 174);
     
 }
 .fun-color {
