@@ -38,6 +38,23 @@ td{
     background-color: rgb(175, 174, 174);
     
 }
+nav ul{
+    list-style: none;
+    width: 15%;
+    padding: 2px;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    transition: margin-left 1.5s;
+    margin: 5px;
+    padding: 5px;
+}
+nav ul li a:hover{
+    margin-left: 30px;
+}
 .fun-color {
     animation: random 15s infinite;
     }
