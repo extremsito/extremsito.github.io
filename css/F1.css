@@ -55,6 +55,17 @@ nav ul li a{
 nav ul li a:hover{
     margin-left: 30px;
 }
+#fl{
+    color: purple;
+}
+
+#perfect{
+    color: blue;
+}
+
+#pole{
+    color: red;
+}
 .fun-color {
     animation: random 15s infinite;
     }
