@@ -66,6 +66,9 @@ nav ul li a:hover{
 #pole{
     color: red;
 }
+#moha{
+    color: green
+}
 .fun-color {
     animation: random 15s infinite;
     }
